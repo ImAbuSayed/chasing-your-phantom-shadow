@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-your-phantom-shadow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Chasing Your Phantom Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-phantom-shadow/) |
+| **Get License** | [Music Rights & Licensing for Chasing Your Phantom Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-phantom-shadow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your scent is lingering across the tangled sheets
+> A sudden rush of fire every time our glances meet
+> I feel your phantom shadow pulling me to bed
+> A midnight kind of fever rushing through my head
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
