@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chasing Your Phantom Shadow
+
+This log tracks the cryptographic history and versioning for the song **Chasing Your Phantom Shadow** (chasing-your-phantom-shadow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:52:48.061582 | `v1` | `2af8a9e6c3c2bd72b0164112c5e1d58f6997fc6175b36299123a652ab5a1317e` | `42a84343bc0b23196fac39425533056b61e124a2291c6c2e9fae6bbe38eba4be` | `2026-06-06_chasing-your-phantom-shadow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
